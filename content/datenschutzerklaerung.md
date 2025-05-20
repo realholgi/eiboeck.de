@@ -97,4 +97,5 @@ Bei Fragen können Sie sich jederzeit an uns wenden:
 
 ---
 
-📄 **Quelle:** Diese Datenschutzerklärung wurde mit dem [Datenschutzerklärungs-Generator von active
+📄 **Quelle:** Diese Datenschutzerklärung wurde mit dem [Datenschutzerklärungs-Generator von activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/) (Version 2018-09-24).
+
