@@ -28,7 +28,7 @@ bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren au
 
 langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
 
-[Nehmen Sie Kontakt mit mir auf! Haben Sie ein interessantes Projekt und brauchen Unterstützung? Lassen Sie uns zusammenarbeiten!](https://www.eiboeck.de/kontakt)
+[Nehmen Sie Kontakt mit mir auf! Haben Sie ein interessantes Projekt und brauchen Unterstützung? Lassen Sie uns zusammenarbeiten!](/kontakt)
 
 Ich bin seit über 25 Jahren selbständiger IT-Dienstleister, spezialisiert auf kleinere und mittlere Betriebe und biete zuverlässig Service, Beratung und Programmierung.
 
@@ -39,6 +39,6 @@ Imberstrasse 9
 +49 721 946470  
 info@eiboeck.de
 
-[Datenschutzerklärung](https://www.eiboeck.de/datenschutz)
+[Datenschutzerklärung](/datenschutz)
 
 Copyright © 2004-2025 Holger Eiboeck
