@@ -1,0 +1,333 @@
+baseURL: "https://eiboeck.de"
+languageCode: "DE-de"
+title: "Holger Eiboeck EDV Dienstleistungen"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: home
+      name: Home
+      title: Trust Full IT-Service
+      url: /
+      weight: 1
+
+    - identifier: konzept
+      name: Konzept
+      title: Konzept und Philosophie
+      url: /konzept
+      weight: 2
+
+    - identifier: leistung
+      name: Leistung
+      title: Was kann ich Ihnen anbieten?
+      url: /leistung
+      weight: 3
+
+    - identifier: preis
+      name: Preis
+      title: Was soll das kosten?
+      url: /preis
+      weight: 4
+
+    - identifier: ueber
+      name: Über mich
+      title: Ein wenig über mich
+      url: /ueber
+      weight: 5
+
+    - identifier: support
+      name: Support
+      title: Hier können Sie das Programm zur Fernwartung herunterladen
+      url: /support
+      weight: 6
+
+    - identifier: kontakt
+      name: Kontakt
+      title: Sie mögen, was Sie gesehen haben? Sie wollen mich engagieren? Oder einfach nur "Hallo" sagen?
+      url: /kontakt
+      weight: 7
+
+params:
+  title: "Holger Eiboeck EDV Dienstleistungen"
+  description: "Trust Full IT-Service"
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/img/eedv_logo.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    disableThemeToggle: true
+    defaultTheme: "light" # light
+
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+    family: "Arial, 'Helvetica Neue', Helvetica, sans-serif"
+
+  # color preference
+  # When using hex codes for colors, quotations must be used along with the # sign
+  color:
+    textColor: "#343a40"
+    secondaryTextColor: "#6c757d"
+    textLinkColor: "#307ecc"
+    backgroundColor: "#ffffff"
+    secondaryBackgroundColor: "#64ffda1a"
+    primaryColor: "#307ecc"
+    secondaryColor: "#f8f9fa"
+
+    darkmode:
+      textColor: "#e4e6eb"
+      secondaryTextColor: "#b0b3b8"
+      textLinkColor: "#ffffff"
+      backgroundColor: "#18191a"
+      secondaryBackgroundColor: "#212529"
+      primaryColor: "#ffffff"
+      secondaryColor: "#212529"
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    brandLogo: "/img/eedv_logo.png" # Logo for the brand | default is the favicon variable
+    showBrandLogo: true # Show brand logo in nav bar | default is true
+    brandName: "Holger Eiboeck EDV Dienstleistungen" # Brand name for the brand | default is the title variable
+    disableSearch: true
+    searchPlaceholder: "Suchen"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Mein Name ist Holger Eiboeck."
+    title: "„Trust Full IT-Service“"
+    #subtitle: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
+    content: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
+    image: /img/holgi_avatar2023.png
+    bottomImage:
+      enable: false
+    roundImage: true
+    button:
+      enable: true
+      name: "Über mich"
+      url: "/ueber"
+      download: false
+      newPage: true
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/realholgi
+        - icon: fab fa-mastodon
+          url: https://23.social/@realholgi
+        - icon: fa fa-globe
+          url: https://eiboeck.de
+
+  # About
+  about:
+    enable: true
+    title: "IT-Know-how"
+    image: ""
+    content: |-
+      Zusammen mit meinem IT-KNOW-HOW können Sie sich auf Ihr Kern-Geschäft konzentrieren und in neuen Bereichen wachsen. Ich sorge für Ihre IT und entwickle diese nach Ihren Vorgaben weiter. Bei Bedarf erstelle ich Software für Sie und kümmere mich auch um das Software-Engineering und entsprechende Qualität.
+    skills:
+      enable: false
+      title: "Erfahrung:"
+      items:
+        - "Apple Profi"
+        - "CD/CD"
+        - "Perl"
+        - "C#"
+        - "C/C++"
+        - "PHP"
+        - "HTML/CSS"
+        - "Build/Test-Automatisierung"
+
+  # Experience
+  experience:
+    enable: false
+    title: "Erfahrung"
+    items:
+      - job: ""
+        company: "IT-Professional"
+        info:
+          enable: false
+        content: "umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe"
+
+      - job: ""
+        company: "Erfahrener Programmierer"
+        info:
+          enable: false
+        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das <b>Software-Engineering</b>an"
+
+      - job: ""
+        company: "Apple Profi"
+        info:
+          enable: false
+        content: "langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration"
+
+ 
+  # Achievements
+  achievements:
+    enable: true
+    title: "Erfahrung"
+    items:
+      - title: IT-Professional
+        content: umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe
+        url: https://example.com
+        image: /images/achievement.jpg
+      - title: Erfahrener Programmierer
+        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das *Software-Engineering* an"
+        image: /images/achievement.jpg
+      - title: Apple Profi
+        content: langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
+        image: /images/achievement.jpg
+
+  # projects
+  projects:
+    enable: false
+    # title: "Custom Name"
+    items:
+      - title: Hugo Profile
+        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+        image: /images/projects/profile.png
+        featured:
+          name: Demo
+          link: https://hugo-profile.netlify.app
+        badges:
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/hugo-profile
+          - icon: fab fa-twitter
+            url: https://x.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: Image Converter
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
+        badges:
+          - "Django"
+          - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
+
+      - title: Hugo Profile V2
+        content: A clean and simple Hugo template for personal portfolio and blog.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
+
+  #Contact
+  contact:
+    enable: true
+    title: "Kontakt"
+    content: Haben Sie ein interessantes Projekt und brauchen Unterstützung? Lassen Sie uns zusammenarbeiten!
+    btnName: Nehmen Sie Kontakt mit mir auf!
+    btnLink: mailto:holger@eiboeck.de
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+    #   messageRows: 5
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: false
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/realholgi
+      mastodon: https://23.social/@realholgi
+      email: mailto:info@eiboeck.de
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
+      content: "min read"
+    scrollprogress:
+      enable: false
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Inhalt"
+    copyright: "Holger Eiboeck"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
