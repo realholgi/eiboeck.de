@@ -155,15 +155,13 @@ params:
       name: "Über mich"
       url: "/ueber"
       download: false
-      newPage: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/realholgi
         - icon: fab fa-mastodon
           url: https://23.social/@realholgi
-        - icon: fa fa-globe
-          url: https://eiboeck.de
 
   # About
   about:
@@ -171,7 +169,7 @@ params:
     title: "IT-Know-how"
     image: ""
     content: |-
-      Zusammen mit meinem IT-KNOW-HOW können Sie sich auf Ihr Kern-Geschäft konzentrieren und in neuen Bereichen wachsen. Ich sorge für Ihre IT und entwickle diese nach Ihren Vorgaben weiter. Bei Bedarf erstelle ich Software für Sie und kümmere mich auch um das Software-Engineering und entsprechende Qualität.
+      Zusammen mit meinem IT-Know-how können Sie sich auf Ihr Kern-Geschäft konzentrieren und in neuen Bereichen wachsen. Ich sorge für Ihre IT und entwickle diese nach Ihren Vorgaben weiter. Bei Bedarf erstelle ich Software für Sie und kümmere mich auch um das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) und entsprechende Qualität.
     skills:
       enable: false
       title: "Erfahrung:"
@@ -200,7 +198,7 @@ params:
         company: "Erfahrener Programmierer"
         info:
           enable: false
-        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das <b>Software-Engineering</b>an"
+        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) an"
 
       - job: ""
         company: "Apple Profi"
@@ -216,14 +214,13 @@ params:
     items:
       - title: IT-Professional
         content: umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe
-        url: https://example.com
-        image: /images/achievement.jpg
+        image: /img/logo.png
       - title: Erfahrener Programmierer
-        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das *Software-Engineering* an"
-        image: /images/achievement.jpg
+        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) an"
+        image: /img/logo.png
       - title: Apple Profi
         content: langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
-        image: /images/achievement.jpg
+        image: /img/logo.png
 
   # projects
   projects:
@@ -281,7 +278,7 @@ params:
     title: "Kontakt"
     content: Haben Sie ein interessantes Projekt und brauchen Unterstützung? Lassen Sie uns zusammenarbeiten!
     btnName: Nehmen Sie Kontakt mit mir auf!
-    btnLink: mailto:holger@eiboeck.de
+    btnLink: /kontakt
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -299,7 +296,7 @@ params:
     socialNetworks:
       github: https://github.com/realholgi
       mastodon: https://23.social/@realholgi
-      email: mailto:info@eiboeck.de
+      email: /kontakt
 
   # List pages like blogs and posts
   listPages:
