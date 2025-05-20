@@ -72,12 +72,6 @@ Zur einheitlichen Darstellung von Schriftarten nutzen wir **Google Webfonts**.
 
 **Rechtsgrundlage:** Ihre **Einwilligung** (Art. 6 Abs. 1 lit. a DSGVO).
 
-### Google Maps
-Diese Website nutzt **Google Maps** zur Darstellung von interaktiven Karten.  
-🔗 [Google Datenschutzrichtlinie](https://www.google.com/privacypolicy.html)
-
-**Rechtsgrundlage:** Ihre **Einwilligung** (Art. 6 Abs. 1 lit. a DSGVO).
-
 ---
 
 ## SSL-Verschlüsselung
