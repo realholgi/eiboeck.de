@@ -1,7 +1,5 @@
 ---
 title: "Datenschutzerklärung"
-id: "datenschutzerklaerung"
-toc: false
 ---
 
 ## Verantwortliche Stelle

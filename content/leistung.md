@@ -1,6 +1,5 @@
 ---
 title: "Was kann ich Ihnen anbieten?"
-toc: false
 ---
 
 Kompetenz, Erfahrung und Know-how in Sachen IT

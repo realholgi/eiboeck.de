@@ -1,6 +1,5 @@
 ---
 title: "Was soll das kosten?"
-toc: false
 ---
 
 ## Gültig ab 01.09.2022

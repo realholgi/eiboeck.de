@@ -1,6 +1,5 @@
 ---
 title: "Kontakt"
-toc: false
 ---
 
 Sie mögen, was Sie gesehen haben? Sie wollen mich engagieren? Oder einfach nur „Hallo“ sagen?

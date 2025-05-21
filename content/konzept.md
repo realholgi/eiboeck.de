@@ -1,6 +1,5 @@
 ---
 title: "Konzept und Philosophie"
-toc: false
 ---
 
 ## Konzept
