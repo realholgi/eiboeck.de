@@ -71,7 +71,7 @@ params:
   title: "Holger Eiboeck EDV Dienstleistungen"
   description: "Trust Full IT-Service"
   staticPath: ""  # The path to serve the static files from
-  favicon: "img/eedv_logo.png"
+  favicon: "/img/eedv_logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -123,7 +123,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "img/eedv_logo.png" # Logo for the brand | default is the favicon variable
+    brandLogo: "/img/eedv_logo.png" # Logo for the brand | default is the favicon variable
     showBrandLogo: true # Show brand logo in nav bar | default is true
     brandName: "Holger Eiboeck EDV Dienstleistungen" # Brand name for the brand | default is the title variable
     disableSearch: true
@@ -147,7 +147,7 @@ params:
     title: "„Trust Full IT-Service“"
     #subtitle: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
     content: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
-    image: img/holgi_avatar2023.png
+    image: /img/holgi_avatar2023.png
     bottomImage:
       enable: false
     roundImage: true
@@ -215,13 +215,13 @@ params:
     items:
       - title: IT-Professional
         content: umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe
-        image: img/logo.png
+        image: /img/logo.png
       - title: Erfahrener Programmierer
         content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) an"
-        image: img/logo.png
+        image: /img/logo.png
       - title: Apple Profi
         content: langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
-        image: img/logo.png
+        image: /img/logo.png
 
   # projects
   projects:
@@ -230,7 +230,7 @@ params:
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: images/projects/profile.png
+        image: /images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app

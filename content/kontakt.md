@@ -15,6 +15,6 @@ Imberstrasse 9
 
 St.Nr.: 34145/33718 FA: 2834  
 
-[Datenschutzerklärung](datenschutzerklaerung)
+[Datenschutzerklärung](/datenschutzerklaerung)
 
 

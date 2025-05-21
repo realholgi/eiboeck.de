@@ -16,5 +16,5 @@ title: "Was soll das kosten?"
 ---
 
 **Alle Preise verstehen sich zuzüglich Mehrwertsteuer**  
-Weitere Angebote auf [Anfrage](kontakt)
+Weitere Angebote auf [Anfrage](/kontakt)
 
