@@ -3,6 +3,10 @@ languageCode: "DE-de"
 title: "Holger Eiboeck EDV Dienstleistungen"
 theme: hugo-profile
 
+disableKinds:
+ - taxonomy
+ - term
+
 outputs:
   home:
     - "HTML"
