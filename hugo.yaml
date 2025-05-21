@@ -28,43 +28,43 @@ Menus:
     - identifier: home
       name: Home
       title: Trust Full IT-Service
-      url: .
+      url: /
       weight: 1
 
     - identifier: konzept
       name: Konzept
       title: Konzept und Philosophie
-      url: konzept
+      url: /konzept
       weight: 2
 
     - identifier: leistung
       name: Leistung
       title: Was kann ich Ihnen anbieten?
-      url: leistung
+      url: /leistung
       weight: 3
 
     - identifier: preis
       name: Preis
       title: Was soll das kosten?
-      url: preis
+      url: /preis
       weight: 4
 
     - identifier: ueber
       name: Über mich
       title: Ein wenig über mich
-      url: ueber
+      url: /ueber
       weight: 5
 
     - identifier: support
       name: Support
       title: Hier können Sie das Programm zur Fernwartung herunterladen
-      url: support
+      url: /support
       weight: 6
 
     - identifier: kontakt
       name: Kontakt
       title: Sie mögen, was Sie gesehen haben? Sie wollen mich engagieren? Oder einfach nur "Hallo" sagen?
-      url: kontakt
+      url: /kontakt
       weight: 7
 
 params:
