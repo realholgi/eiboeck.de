@@ -3,7 +3,7 @@ title: "Ein wenig über mich"
 ---
 
 <div class="image d-flex" style="float: right;">
-    <img src="img/holgi_avatar2023.png" alt="Holger Eiboeck" class="img-thumbnail mx-auto rounded-circle" style="height:256px; width=256px;" />
+    <img src="/img/holgi_avatar2023.png" alt="Holger Eiboeck" class="img-thumbnail mx-auto rounded-circle" style="height:256px; width=256px;" />
 </div>
 
 Ich bin Holger, ein 56 Jahre alter [Hacker](https://de.wikipedia.org/wiki/Hacker) aus Karlsruhe.
