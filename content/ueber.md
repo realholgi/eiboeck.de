@@ -3,13 +3,13 @@ title: "Ein wenig über mich"
 ---
 
 <div class="image d-flex" style="float: right;">
-    <img src="/img/holgi_avatar2023.png" alt="Holger Eiboeck" class="img-thumbnail mx-auto rounded-circle" style="height:256px; width=256px;" />
+    <img src="/img/holgi_avatar2023.png" alt="Holger Eiboeck" class="img-thumbnail mx-auto rounded-circle" style="height:256px; width:256px;" />
 </div>
 
 Ich bin Holger, ein 56 Jahre alter [Hacker](https://de.wikipedia.org/wiki/Hacker) aus Karlsruhe.
 
-
 ## Kurze Bio
+
 Ein paar Details:
 
 - Geboren 1968 in **Karlsruhe**
@@ -24,6 +24,7 @@ Ein paar Details:
 - 30+ Jahre Erfahrung in der IT-Branche
 
 ## Erfahrung
+
 - 30 Jahre Apple
 - 25 Jahre Linux
 - 15 Jahre Perl

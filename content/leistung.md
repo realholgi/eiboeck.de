@@ -5,9 +5,11 @@ title: "Was kann ich Ihnen anbieten?"
 Kompetenz, Erfahrung und Know-how in Sachen IT
 
 ## Systemberatung
+
 - In fast allen Fragen der Informations-Technologie
 
 ## Netzwerk
+
 - Unix/Linux
 - Mac
 - Windows
@@ -16,10 +18,12 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - Integration von Open Source
 
 ## Telekommunikation
+
 - ISDN, DSL, Router, TK-Anlagen, VoIP
 - WAN-Anbindungen
 
 ## Sicherheit
+
 - Firewall
 - Server- & Application Security
 - AntiSpam
@@ -27,6 +31,7 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - Datensicherung
 
 ## Internet
+
 - Komplette Datenbank- oder scriptbasierte Sites
 - CMS
 - Custom Shop Erstellung
@@ -38,6 +43,7 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - WordPress
 
 ## Support
+
 - macOS
 - Unix
 - Windows
@@ -45,6 +51,7 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - Server
 
 ## Programmierung
+
 - Mac/Win/.Net/Unix/Symbian/Windows Mobile/Android
 - C++/Java/C#/C/Basic/Pascal
 - Perl/Python/AppleScript/PHP
@@ -53,6 +60,7 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - Clean Code
 
 ## Modern Software Delivery
+
 - CI/CD
 - Docker
 - Azure DevOps

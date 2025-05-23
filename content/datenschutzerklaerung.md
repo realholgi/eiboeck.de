@@ -31,6 +31,7 @@ Eine Beschwerde kann bei der zuständigen **Aufsichtsbehörde** eingereicht werd
 ## Erfassung allgemeiner Informationen beim Besuch der Website
 
 ### Art und Zweck der Verarbeitung
+
 Beim Zugriff auf unsere Website werden automatisch Informationen erfasst, darunter:
 
 - Browsertyp und -version
@@ -41,9 +42,11 @@ Beim Zugriff auf unsere Website werden automatisch Informationen erfasst, darunt
 Diese Daten dienen zur Sicherstellung der Stabilität und Funktionalität unserer Website.
 
 ### Rechtsgrundlage
+
 **Art. 6 Abs. 1 lit. f DSGVO** – Berechtigtes Interesse.
 
 ### Speicherdauer
+
 Die Daten werden gelöscht, sobald sie für den Zweck der Erhebung nicht mehr benötigt werden.
 
 ---
@@ -51,13 +54,16 @@ Die Daten werden gelöscht, sobald sie für den Zweck der Erhebung nicht mehr be
 ## Kontaktformular
 
 ### Zweck der Verarbeitung
+
 Die von Ihnen eingegebenen Daten (Name, E-Mail-Adresse) werden zur Beantwortung Ihrer Anfrage gespeichert.
 
 ### Rechtsgrundlage
+
 - **Berechtigtes Interesse** (Art. 6 Abs. 1 lit. f DSGVO).
 - **Vertragsanbahnung** (Art. 6 Abs. 1 lit. b DSGVO), falls Sie ein Angebot anfordern.
 
 ### Speicherdauer
+
 Daten werden spätestens **6 Monate nach Bearbeitung** der Anfrage gelöscht.
 
 ---
@@ -65,6 +71,7 @@ Daten werden spätestens **6 Monate nach Bearbeitung** der Anfrage gelöscht.
 ## Verwendung von Google-Diensten
 
 ### Google Webfonts
+
 Zur einheitlichen Darstellung von Schriftarten nutzen wir **Google Webfonts**.  
 🔗 [Google Datenschutzerklärung](https://www.google.com/policies/privacy/)
 
@@ -73,21 +80,26 @@ Zur einheitlichen Darstellung von Schriftarten nutzen wir **Google Webfonts**.
 ---
 
 ## SSL-Verschlüsselung
+
 Zur Sicherheit Ihrer Daten verwenden wir moderne **SSL-Verschlüsselung**.
 
 ---
 
 ## Änderungen dieser Datenschutzerklärung
+
 Wir behalten uns das Recht vor, diese Datenschutzerklärung bei Bedarf anzupassen.
 
 ---
 
 ## Fragen zum Datenschutz
+
 Bei Fragen können Sie sich jederzeit an uns wenden:
 
 📧 [info@eiboeck.de](mailto:info@eiboeck.de)
 
 ---
 
-📄 **Quelle:** Diese Datenschutzerklärung wurde mit dem [Datenschutzerklärungs-Generator von activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/) (Version 2018-09-24).
+📄 **Quelle:** Diese Datenschutzerklärung wurde mit
+dem [Datenschutzerklärungs-Generator von activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/) 
+(Version 2018-09-24).
 
