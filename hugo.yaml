@@ -215,13 +215,13 @@ params:
     items:
       - title: IT-Professional
         content: umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe
-        image: /img/logo.png
+        image: /img/eedv_logo.png
       - title: Erfahrener Programmierer
         content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) an"
-        image: /img/logo.png
+        image: /img/eedv_logo.png
       - title: Apple Profi
         content: langjährige Erfahrung (>25 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
-        image: /img/logo.png
+        image: /img/eedv_logo.png
 
   # projects
   projects:
