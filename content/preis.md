@@ -2,11 +2,11 @@
 title: "Was soll das kosten?"
 ---
 
-## Gültig ab 01.09.2022
+## Gültig ab 01.05.2026
 
 ### Standard Stundensatz
 
-- Für Support und Programmierung: **90 Euro / Stunde**
+- Standard für Support und Programmierung: **100 Euro / Stunde**
 
 ### Anfahrt
 
@@ -14,8 +14,7 @@ title: "Was soll das kosten?"
 
 ### Abrechnung nach entstandenem Aufwand
 
-- Wartungsverträge und Pauschal-Abrechnungen sind **keine bevorzugte Option**, da eine Seite meist mehr leistet oder
-  bezahlt, als nötig ist.
+- *Gegen unnötige Fixkosten:* Von starren Pauschalabrechnungen halte ich wenig, da am Ende meistens einer draufzahlt. Ich setze lieber auf volle Transparenz: Sie zahlen exakt für den Aufwand, der auch tatsächlich angefallen ist – nicht mehr und nicht weniger.
 
 ---
 
