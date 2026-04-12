@@ -2,30 +2,20 @@
 title: "Konzept und Philosophie"
 ---
 
-## Konzept
+## Mein Konzept: IT-Support auf Augenhöhe
 
-- „Mein Ziel ist eine möglichst umfassende Dienstleistung im Bereich EDV anzubieten.“
-- Die klare Zielsetzung ist: Kleinen und mittleren Unternehmen soll auch ohne eigene EDV-Abteilung die notwendige
-  Kompetenz zur Verfügung gestellt werden, damit die Wettbewerbsfähigkeit nicht am mangelnden Einsatz von Computer- und
-  Kommunikationstechnologien scheitert. Ein besonderer Schwerpunkt ist dabei sicher die Vernetzung der Arbeitsplätze und
-  das Internet als erweitertes Geschäftsfeld.
-- Ein kleinerer oder mittelständischer Betrieb kann es sich normalerweise nicht leisten, einen Angestellten alleine für
-  die EDV abzustellen.
-- Bei Bedarf bin ich für Sie da ohne monatliche Fixkosten; nur wenn Sie mich benötigen.
-- Bei „klassischen“ Firmen liegt das Hauptgeschäftsfeld normalerweise im Handel und nicht in der Dienstleistung,
-  folglich liegt deren Interesse im Verkauf von neuer Hard- und Software, am besten mit teuren „Wartungsverträgen“.
-- Ich suche nach Ihren Vorgaben und nach Ihrem Bedarf die Produkte beim billigsten, besten oder schnellsten Anbieter,
-  zeige die Vor- und Nachteile auf, und Sie entscheiden.
-- Ich strebe langfristige Konzepte an, scheue aber auch nicht vor Prototypen und Speziallösungen zurück, wenn nötig.
-- Holen Sie sich das Know-how ins Haus durch Outsourcing.
+* **Rundum-Service für Ihre IT:** Mein Ziel ist es, Ihnen eine umfassende Dienstleistung zu bieten, damit Sie sich voll auf Ihr Kerngeschäft konzentrieren können.
+* **Kompetenz für den Mittelstand:** Gerade kleinere Unternehmen brauchen moderne Technik, um wettbewerbsfähig zu bleiben. Ich liefere Ihnen das nötige Know-how in den Bereichen Vernetzung und Digitalisierung – **ohne dass Sie eine eigene IT-Abteilung finanzieren müssen.**
+* **Flexibilität statt Fixkosten:** Bei mir gibt es keine starren monatlichen Pauschalen. Ich bin genau dann für Sie da, wenn Sie mich brauchen – Sie zahlen nur für die tatsächliche Leistung.
+* **Ehrliche Beratung statt Verkaufsdruck:** Da ich kein klassischer Hardware-Händler bin, liegt mein Fokus nicht auf dem Verkauf teurer Geräte oder unnötiger Wartungsverträge. Ich suche für Sie herstellerneutral das beste Angebot am Markt und zeige Ihnen transparent die Vor- und Nachteile auf.
+* **Nachhaltig & Individuell:** Ich setze auf langlebige Konzepte, scheue mich aber auch nicht vor kreativen Speziallösungen oder Prototypen, wenn Standardprodukte an ihre Grenzen stoßen.
 
-## Philosophie
+---
 
-> „Es genügt, gut zu sein, und alle werden es erkennen können.“
+## Meine Philosophie
 
-- Es ist selbstverständlich, dass ich Probleme eigenständig nach Ihren Vorgaben löse, aber es sind auch andere Faktoren
-  wichtig wie Ehrlichkeit, Offenheit, Transparenz und Vertrauen.
-- Ich *werde* Sie einfach nicht übers Ohr hauen; ich stehe für *faires Geschäft*.
-- Einer der besten und einfachsten Gründe hierfür ist, dass ich vor allem von der Mund-zu-Mund-Propaganda und von
-  Empfehlungen lebe. Wenn ich „schlecht“ bin, bin ich ‚raus‘, denn so was spricht sich schneller herum – aber sicher
-  nicht nur deswegen … ;-)
+> „Gute Arbeit spricht für sich selbst.“
+
+* **Vertrauen ist die Basis:** Fachliche Probleme eigenständig zu lösen, ist mein Handwerk. Aber eine echte Zusammenarbeit funktioniert nur mit Ehrlichkeit, Offenheit und Transparenz.
+* **Faires Geschäft:** Ich stehe für eine Partnerschaft auf Augenhöhe. Mein Anspruch ist es nicht, den schnellen Euro zu machen, sondern eine Lösung zu finden, die Sie wirklich weiterbringt.
+* **Empfehlung als Antrieb:** Mein Erfolg basiert fast ausschließlich auf Mund-zu-Mund-Propaganda. Wenn ich keine gute Arbeit leiste, spricht sich das schnell herum – und das ist für mich der beste Grund, immer mein Bestes zu geben.
