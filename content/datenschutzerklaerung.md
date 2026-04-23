@@ -4,15 +4,15 @@ title: "Datenschutzerklärung"
 
 ## Verantwortliche Stelle
 
-Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der Datenschutz-Grundverordnung (DSGVO), ist:
 
-📧 [Holger Eiboeck](mailto:info@eiboeck.de)
+[Holger Eiboeck](mailto:info@eiboeck.de)
 
 ---
 
 ## Ihre Betroffenenrechte
 
-Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
+Unter den oben genannten Kontaktdaten können Sie jederzeit folgende Rechte ausüben:
 
 - **Auskunft** über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO).
 - **Berichtigung** unrichtiger personenbezogener Daten (Art. 16 DSGVO).
@@ -23,8 +23,8 @@ Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie j
 
 Falls Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
 
-Eine Beschwerde kann bei der zuständigen **Aufsichtsbehörde** eingereicht werden:
-🔗 [Liste der Datenschutzaufsichtsbehörden](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)
+Sie haben außerdem das Recht, sich bei der zuständigen **Aufsichtsbehörde** zu beschweren:
+[Liste der Datenschutzaufsichtsbehörden](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html)
 
 ---
 
@@ -32,30 +32,88 @@ Eine Beschwerde kann bei der zuständigen **Aufsichtsbehörde** eingereicht werd
 
 ### Art und Zweck der Verarbeitung
 
-Beim Zugriff auf unsere Website werden automatisch Informationen erfasst, darunter:
+Beim Aufruf dieser Website werden automatisch Informationen erfasst. Dazu gehören zum Beispiel:
 
 - Browsertyp und -version
 - Betriebssystem
 - Domainname des Internet-Service-Providers
 - IP-Adresse
 
-Diese Daten dienen zur Sicherstellung der Stabilität und Funktionalität unserer Website.
+Diese Daten werden verarbeitet, um den technischen Betrieb der Website sicherzustellen.
 
 ### Rechtsgrundlage
 
-**Art. 6 Abs. 1 lit. f DSGVO** – Berechtigtes Interesse.
+**Art. 6 Abs. 1 lit. f DSGVO** auf Grundlage unseres berechtigten Interesses an einem sicheren und stabilen Betrieb der Website.
 
 ### Speicherdauer
 
-Die Daten werden gelöscht, sobald sie für den Zweck der Erhebung nicht mehr benötigt werden.
+Die Daten werden gelöscht, sobald sie für den jeweiligen Zweck nicht mehr erforderlich sind.
 
 ---
 
-## Kontaktformular
+## Hosting über GitHub Pages
+
+Diese Website wird über **GitHub Pages** bereitgestellt, einen Hosting-Dienst der GitHub, Inc.
+
+Beim Besuch der Website kann GitHub technisch erforderliche Verbindungsdaten verarbeiten. Nach den Angaben von GitHub gehört dazu insbesondere die **IP-Adresse**, die aus Sicherheitsgründen protokolliert wird.
+
+Weitere Informationen finden Sie in den Datenschutzhinweisen von GitHub:
+[GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 ### Zweck der Verarbeitung
 
-Die von Ihnen eingegebenen Daten (Name, E-Mail-Adresse) werden zur Beantwortung Ihrer Anfrage gespeichert.
+Die Verarbeitung erfolgt zur sicheren und zuverlässigen Bereitstellung der Website.
+
+### Rechtsgrundlage
+
+**Art. 6 Abs. 1 lit. f DSGVO** auf Grundlage unseres berechtigten Interesses an einem sicheren und stabilen Betrieb dieser Website.
+
+### Empfänger
+
+Empfänger der Daten ist:
+
+**GitHub, Inc.**  
+88 Colin P. Kelly Jr. St.  
+San Francisco, CA 94107  
+USA
+
+Es kann nicht ausgeschlossen werden, dass Daten dabei auch in den USA verarbeitet werden.
+
+---
+
+## Domainregistrierung und DNS
+
+Die Domain dieser Website ist bei **Schlund Technologies GmbH** registriert. SchlundTech betreibt außerdem den autoritativen Nameserver für diese Domain.
+
+Bei der Auflösung der Domain in eine IP-Adresse können technisch erforderliche Verbindungsdaten verarbeitet werden, insbesondere IP-Adressen und Angaben, die für den stabilen und sicheren Betrieb der DNS-Infrastruktur notwendig sind.
+
+### Zweck der Verarbeitung
+
+Die Verarbeitung erfolgt zur Bereitstellung und sicheren technischen Auflösung der Domain.
+
+### Rechtsgrundlage
+
+**Art. 6 Abs. 1 lit. f DSGVO** auf Grundlage unseres berechtigten Interesses an einer funktionsfähigen und sicheren Erreichbarkeit dieser Website.
+
+### Empfänger
+
+Empfänger der Daten ist:
+
+**Schlund Technologies GmbH**  
+Johanna-Dachs-Str. 55  
+93055 Regensburg  
+Deutschland
+
+Weitere Informationen finden Sie in der Datenschutzerklärung von SchlundTech:
+[Datenschutzerklärung SchlundTech](https://www.schlundtech.com/datenschutzerklaerung/)
+
+---
+
+## Kontaktaufnahme
+
+### Zweck der Verarbeitung
+
+Wenn Sie per E-Mail oder telefonisch Kontakt aufnehmen, verarbeiten wir die von Ihnen mitgeteilten Daten, um Ihre Anfrage zu bearbeiten.
 
 ### Rechtsgrundlage
 
@@ -64,42 +122,28 @@ Die von Ihnen eingegebenen Daten (Name, E-Mail-Adresse) werden zur Beantwortung 
 
 ### Speicherdauer
 
-Daten werden spätestens **6 Monate nach Bearbeitung** der Anfrage gelöscht.
+Die Daten werden gelöscht, sobald Ihre Anfrage abschließend bearbeitet wurde und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ---
 
-## Verwendung von Google-Diensten
+## Schriftarten
 
-### Google Webfonts
-
-Zur einheitlichen Darstellung von Schriftarten nutzen wir **Google Webfonts**.  
-🔗 [Google Datenschutzerklärung](https://www.google.com/policies/privacy/)
-
-**Rechtsgrundlage:** Ihre **Einwilligung** (Art. 6 Abs. 1 lit. a DSGVO).
-
----
+Diese Website verwendet lokal eingebundene Schriftarten. Es werden dabei keine Schriftarten von externen Anbietern wie Google nachgeladen.
 
 ## SSL-Verschlüsselung
 
-Zur Sicherheit Ihrer Daten verwenden wir moderne **SSL-Verschlüsselung**.
+Diese Website nutzt eine SSL- bzw. TLS-Verschlüsselung, damit übertragene Inhalte geschützt sind.
 
 ---
 
 ## Änderungen dieser Datenschutzerklärung
 
-Wir behalten uns das Recht vor, diese Datenschutzerklärung bei Bedarf anzupassen.
+Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, damit sie den aktuellen rechtlichen Anforderungen und den tatsächlich eingesetzten Diensten entspricht.
 
 ---
 
 ## Fragen zum Datenschutz
 
-Bei Fragen können Sie sich jederzeit an uns wenden:
+Bei Fragen zum Datenschutz können Sie sich jederzeit an uns wenden:
 
-📧 [info@eiboeck.de](mailto:info@eiboeck.de)
-
----
-
-📄 **Quelle:** Diese Datenschutzerklärung wurde mit
-dem [Datenschutzerklärungs-Generator von activeMind AG erstellt](https://www.activemind.de/datenschutz/datenschutzhinweis-generator/) 
-(Version 2018-09-24).
-
+[info@eiboeck.de](mailto:info@eiboeck.de)

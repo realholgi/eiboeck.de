@@ -1,23 +1,23 @@
 ---
-title: "Was soll das kosten?"
+title: "Preise"
 ---
 
-## Gültig ab 01.05.2026
+## Gültig ab 1. Mai 2026
 
-### Standard Stundensatz
+### Standardstundensatz
 
-- Standard für Support und Programmierung: **100 Euro / Stunde**
+- Für Support und Programmierung: **100 Euro pro Stunde**
 
 ### Anfahrt
 
-- Innerhalb Karlsruhe und telefonischer Support **kostenlos**
+- Innerhalb von Karlsruhe ist die Anfahrt kostenlos.
+- Telefonischer Support ist ebenfalls kostenlos.
 
-### Abrechnung nach entstandenem Aufwand
+### Abrechnung nach Aufwand
 
-- *Gegen unnötige Fixkosten:* Von starren Pauschalabrechnungen halte ich wenig, da am Ende meistens einer draufzahlt. Ich setze lieber auf volle Transparenz: Sie zahlen exakt für den Aufwand, der auch tatsächlich angefallen ist – nicht mehr und nicht weniger.
+- Ich arbeite bewusst ohne starre Pauschalen. Sie zahlen nur den Aufwand, der tatsächlich angefallen ist.
 
 ---
 
-**Alle Preise verstehen sich zuzüglich Mehrwertsteuer**  
-weitere Angebote auf [Anfrage](/kontakt)
-
+**Alle Preise verstehen sich zuzüglich Mehrwertsteuer.**  
+Weitere Angebote erhalten Sie auf [Anfrage](/kontakt).

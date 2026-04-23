@@ -1,20 +1,20 @@
 ---
-title: "Was kann ich Ihnen anbieten?"
+title: "Leistungen"
 ---
 
-Kompetenz, Erfahrung und Know-how in Sachen IT
+IT-Beratung, Support und Softwareentwicklung für kleinere und mittelständische Unternehmen.
 
 ## Systemberatung
 
-- In fast allen Fragen der Informations-Technologie
+- Beratung zu Infrastruktur, Arbeitsplätzen, Servern und betrieblichen Abläufen
 
-## Netzwerk
+## Netzwerke
 
 - Unix/Linux
-- Mac
+- macOS
 - Windows
-- TCP/IP allgemein
-- Heterogene Vernetzung verschiedener Betriebssysteme
+- TCP/IP
+- Vernetzung gemischter Systemlandschaften
 - Integration von Open Source
 
 ## Telekommunikation
@@ -24,22 +24,21 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 
 ## Sicherheit
 
-- Firewall
-- Server- & Application Security
-- AntiSpam
+- Firewalls
+- Server- und Anwendungssicherheit
+- Antispam
 - Virenschutz
 - Datensicherung
 
 ## Internet
 
-- Komplette Datenbank- oder scriptbasierte Sites
+- Datenbank- und skriptbasierte Websites
 - CMS
-- Custom Shop Erstellung
+- Individuelle Shop-Lösungen
 - CGI-Programmierung
-- Web-/Mail-/Name-Server Aufbau und Konfiguration
-- Firewall
-- Komplette Firmenanbindungen & Internet am Arbeitsplatz
-- Web-Seitenerstellung
+- Aufbau und Konfiguration von Web-, Mail- und Nameservern
+- Anbindung von Firmenstandorten und Internetzugängen am Arbeitsplatz
+- Erstellung von Websites
 - WordPress
 
 ## Support
@@ -48,18 +47,18 @@ Kompetenz, Erfahrung und Know-how in Sachen IT
 - Unix
 - Windows
 - iOS
-- Server
+- Server-Support
 
 ## Programmierung
 
-- Mac/Win/.Net/Unix/Symbian/Windows Mobile/Android
+- macOS/Windows/.NET/Unix/Symbian/Windows Mobile/Android
 - C++/Java/C#/C/Basic/Pascal
 - Perl/Python/AppleScript/PHP
 - SQL, MySQL, PostgreSQL, SQL Server, FileMaker
 - Navision
 - Clean Code
 
-## Modern Software Delivery
+## Moderne Softwareentwicklung und Auslieferung
 
 - CI/CD
 - Docker

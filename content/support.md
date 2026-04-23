@@ -2,13 +2,12 @@
 title: "Support"
 ---
 
-Hier können Sie das Programm zur Fernwartung herunterladen.
+Hier können Sie TeamViewer QuickSupport für die Fernwartung herunterladen.
 
 ## TeamViewer QuickSupport
 
-Bitte klicken Sie auf das Bild, um den Download von **TeamViewer QuickSupport Fernwartung** zu starten.
+Klicken Sie auf das Bild oder den Link, um den Download zu starten.
 
 [![TeamViewer Download](/img/teamviewer.png)](https://get.teamviewer.com/eedv11)
 
-[**Download TeamViewer Fernwartung**](https://get.teamviewer.com/eedv11)
-
+[**TeamViewer QuickSupport herunterladen**](https://get.teamviewer.com/eedv11)

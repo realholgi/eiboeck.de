@@ -2,19 +2,19 @@
 title: "Kontakt"
 ---
 
-Sie mögen, was Sie gesehen haben? Sie wollen mich engagieren? Oder einfach nur „Hallo“ sagen?
+Sie möchten ein Projekt besprechen oder Unterstützung für Ihre IT? Dann schreiben Sie mir oder rufen Sie an.
 
 ## Kontaktinformationen
 
 **Holger Eiboeck EDV Dienstleistungen**  
-Imberstrasse 9  
-76227 Karlsruhe, Germany
+Imberstraße 9  
+76227 Karlsruhe  
+Deutschland
 
-📞 [+49 721 946470](tel:+49721946470)  
-✉️ [info@eiboeck.de](mailto:info@eiboeck.de)
+[+49 721 946470](tel:+49721946470)  
+[info@eiboeck.de](mailto:info@eiboeck.de)
 
-St.Nr.: 34145/33718 FA: 2834
+Steuernummer: 34145/33718, Finanzamt Karlsruhe-Durlach
 
 [Datenschutzerklärung](/datenschutzerklaerung)
-
 

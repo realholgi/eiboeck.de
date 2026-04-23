@@ -1,21 +1,21 @@
 ---
-title: "Konzept und Philosophie"
+title: "Konzept und Arbeitsweise"
 ---
 
 ## Mein Konzept: IT-Support auf Augenhöhe
 
-* **Rundum-Service für Ihre IT:** Mein Ziel ist es, Ihnen eine umfassende Dienstleistung zu bieten, damit Sie sich voll auf Ihr Kerngeschäft konzentrieren können.
-* **Kompetenz für den Mittelstand:** Gerade kleinere Unternehmen brauchen moderne Technik, um wettbewerbsfähig zu bleiben. Ich liefere Ihnen das nötige Know-how in den Bereichen Vernetzung und Digitalisierung – **ohne dass Sie eine eigene IT-Abteilung finanzieren müssen.**
-* **Flexibilität statt Fixkosten:** Bei mir gibt es keine starren monatlichen Pauschalen. Ich bin genau dann für Sie da, wenn Sie mich brauchen – Sie zahlen nur für die tatsächliche Leistung.
-* **Ehrliche Beratung statt Verkaufsdruck:** Da ich kein klassischer Hardware-Händler bin, liegt mein Fokus nicht auf dem Verkauf teurer Geräte oder unnötiger Wartungsverträge. Ich suche für Sie herstellerneutral das beste Angebot am Markt und zeige Ihnen transparent die Vor- und Nachteile auf.
-* **Nachhaltig & Individuell:** Ich setze auf langlebige Konzepte, scheue mich aber auch nicht vor kreativen Speziallösungen oder Prototypen, wenn Standardprodukte an ihre Grenzen stoßen.
+* **Verlässlich im Betrieb:** Ich unterstütze Sie dabei, dass Ihre Systeme im Alltag stabil laufen und Probleme zügig gelöst werden.
+* **Passend für kleinere und mittlere Unternehmen:** Nicht jeder Betrieb braucht eine eigene IT-Abteilung. Oft reicht ein erfahrener Ansprechpartner, der bei Bedarf schnell und pragmatisch unterstützt.
+* **Nach Bedarf statt als Paket:** Ich arbeite ohne feste Monatspauschalen. Abgerechnet wird der tatsächliche Aufwand.
+* **Herstellerneutral und nachvollziehbar:** Ich empfehle keine Lösungen, weil sie gerade im Trend sind, sondern weil sie technisch und wirtschaftlich sinnvoll sind.
+* **Dauerhaft gedacht:** Ziel sind Lösungen, die im Betrieb funktionieren, wartbar bleiben und sich bei Bedarf sinnvoll erweitern lassen.
 
 ---
 
 ## Meine Philosophie
 
-> „Gute Arbeit spricht für sich selbst.“
+> „Gute Arbeit spricht für sich.“
 
-* **Vertrauen ist die Basis:** Fachliche Probleme eigenständig zu lösen, ist mein Handwerk. Aber eine echte Zusammenarbeit funktioniert nur mit Ehrlichkeit, Offenheit und Transparenz.
-* **Faires Geschäft:** Ich stehe für eine Partnerschaft auf Augenhöhe. Mein Anspruch ist es nicht, den schnellen Euro zu machen, sondern eine Lösung zu finden, die Sie wirklich weiterbringt.
-* **Empfehlung als Antrieb:** Mein Erfolg basiert fast ausschließlich auf Mund-zu-Mund-Propaganda. Wenn ich keine gute Arbeit leiste, spricht sich das schnell herum – und das ist für mich der beste Grund, immer mein Bestes zu geben.
+* **Vertrauen entsteht im Alltag:** Fachliche Qualität ist wichtig. Genauso wichtig sind klare Absprachen, transparente Entscheidungen und eine ehrliche Einschätzung.
+* **Sachlich und fair:** Ich bevorzuge Lösungen, die langfristig tragfähig sind, statt kurzfristig gut auszusehen.
+* **Empfehlungen sind für mich entscheidend:** Ein großer Teil meiner Arbeit entsteht über Weiterempfehlungen. Entsprechend wichtig sind mir Sorgfalt, Zuverlässigkeit und saubere Ergebnisse.

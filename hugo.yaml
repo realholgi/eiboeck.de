@@ -27,49 +27,49 @@ Menus:
   main:
     - identifier: home
       name: Home
-      title: Trust Full IT-Service
+      title: Verlässlicher IT-Service
       url: /
       weight: 1
 
     - identifier: konzept
       name: Konzept
-      title: Konzept und Philosophie
+      title: Konzept und Arbeitsweise
       url: /konzept
       weight: 2
 
     - identifier: leistung
-      name: Leistung
-      title: Was kann ich Ihnen anbieten?
+      name: Leistungen
+      title: Leistungen
       url: /leistung
       weight: 3
 
     - identifier: preis
-      name: Preis
-      title: Was soll das kosten?
+      name: Preise
+      title: Preise
       url: /preis
       weight: 4
 
     - identifier: ueber
       name: Über mich
-      title: Ein wenig über mich
+      title: Über mich
       url: /ueber
       weight: 5
 
     - identifier: support
       name: Support
-      title: Hier können Sie das Programm zur Fernwartung herunterladen
+      title: Fernwartung mit TeamViewer QuickSupport
       url: /support
       weight: 6
 
     - identifier: kontakt
       name: Kontakt
-      title: Sie mögen, was Sie gesehen haben? Sie wollen mich engagieren? Oder einfach nur "Hallo" sagen?
+      title: Sie möchten ein Projekt besprechen oder Unterstützung für Ihre IT?
       url: /kontakt
       weight: 7
 
 params:
   title: "Holger Eiboeck EDV Dienstleistungen"
-  description: "Trust Full IT-Service"
+  description: "Verlässlicher IT-Service aus Karlsruhe"
   staticPath: "https://eiboeck.de"  # The path to serve the static files from
   favicon: "/img/eedv_logo.png"
 
@@ -143,10 +143,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Mein Name ist Holger Eiboeck."
-    title: "„Trust Full IT-Service“"
+    intro: "Holger Eiboeck"
+    title: "IT-Service aus Karlsruhe"
     #subtitle: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
-    content: "Ich bin IT-Spezialist, erfahrener Programmierer und Apple-Profi aus Leidenschaft."
+    content: "Ich unterstütze Unternehmen und Selbstständige bei Support, Infrastruktur und individueller Softwareentwicklung."
     image: /img/holgi_avatar2023.png
     bottomImage:
       enable: false
@@ -170,13 +170,13 @@ params:
     title: "IT-Know-how"
     image: ""
     content: |-
-      Ich kümmere mich um Ihre Technik, damit Sie sich voll auf Ihren Erfolg konzentrieren können. Gemeinsam entwickeln wir Ihre IT nach Ihren individuellen Vorgaben weiter. Ob stabile Infrastruktur oder maßgeschneidertes Software: Ich realisiere Lösungen, die technologisch auf dem neuesten Stand sind und höchste Qualitätsansprüche erfüllen.
+      Ich unterstütze Unternehmen und Selbstständige bei Support, Infrastruktur und individueller Softwareentwicklung. Entscheidend ist für mich nicht die größte Lösung, sondern die passende: technisch sauber, wirtschaftlich vernünftig und im Alltag verlässlich.
     skills:
       enable: false
       title: "Erfahrung:"
       items:
         - "Apple Profi"
-        - "CD/CD"
+        - "CI/CD"
         - "Perl"
         - "C#"
         - "C/C++"
@@ -213,14 +213,14 @@ params:
     enable: true
     title: "Erfahrung"
     items:
-      - title: IT-Professional
-        content: umfassendes Know-how, Service und Beratung rund um IT, Telekommunikation und Netzwerke für kleine und mittelgroße Betriebe
+      - title: IT-Beratung und Support
+        content: Betreuung von IT, Telekommunikation und Netzwerken für kleinere und mittelständische Unternehmen
         image: /img/eedv_logo.png
       - title: Erfahrener Programmierer
-        content: "bei der Erstellung von Software kommt es neben dem eigentlichen Programmieren auch auf das [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) an"
+        content: "Bei Software geht es nicht nur um funktionierenden Code, sondern auch um sauberes [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik)."
         image: /img/eedv_logo.png
       - title: Apple Profi
-        content: langjährige Erfahrung (>30 Jahre) mit Apple Geräten (macOS, iOS) und deren Integration
+        content: Langjährige Erfahrung mit Apple-Geräten, macOS, iOS und deren Integration in bestehende IT-Umgebungen
         image: /img/eedv_logo.png
 
   # projects
@@ -277,8 +277,8 @@ params:
   contact:
     enable: true
     title: "Kontakt"
-    content: Haben Sie ein interessantes Projekt und brauchen Unterstützung? Lassen Sie uns zusammenarbeiten!
-    btnName: Nehmen Sie Kontakt mit mir auf!
+    content: Sie möchten ein Projekt besprechen oder brauchen Unterstützung bei Ihrer IT? Ich freue mich auf Ihre Nachricht.
+    btnName: Kontakt aufnehmen
     btnLink: kontakt
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -308,7 +308,7 @@ params:
     socialShare: false
     readTime:
       enable: false
-      content: "min read"
+      content: "Min. Lesezeit"
     scrollprogress:
       enable: false
     tags:
@@ -316,11 +316,11 @@ params:
 
   # For translations
   terms:
-    read: "Read"
+    read: "Weiterlesen"
     toc: "Inhalt"
     copyright: "Holger Eiboeck"
     pageNotFound: "Seite nicht gefunden"
-    emailText: "Check out this site"
+    emailText: "Schauen Sie sich diese Website an"
 
 
     article: "Jan 2, 2006"
