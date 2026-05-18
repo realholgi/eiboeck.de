@@ -1,5 +1,6 @@
 baseURL: "https://eiboeck.de/"
 languageCode: "DE-de"
+defaultContentLanguage: "de"
 title: "Holger Eiboeck EDV Dienstleistungen"
 theme: hugo-profile
 
