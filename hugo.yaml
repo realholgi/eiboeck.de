@@ -170,7 +170,7 @@ params:
     title: "IT-Know-how"
     image: ""
     content: |-
-      Ich unterstütze Unternehmen und Selbstständige bei Support, Infrastruktur und individueller Softwareentwicklung. Entscheidend ist für mich nicht die größte Lösung, sondern die passende: technisch sauber, wirtschaftlich vernünftig und im Alltag verlässlich.
+      Ich unterstütze Unternehmen und Selbstständige bei Support, Infrastruktur und individueller Softwareentwicklung. Die passende Lösung zählt mehr als die größte: technisch sauber, wirtschaftlich vernünftig und im Alltag verlässlich.
     skills:
       enable: false
       title: "Erfahrung:"
@@ -217,7 +217,7 @@ params:
         content: Betreuung von IT, Telekommunikation und Netzwerken für kleinere und mittelständische Unternehmen
         image: /img/eedv_logo.png
       - title: Erfahrener Programmierer
-        content: "Bei Software geht es nicht nur um funktionierenden Code, sondern auch um sauberes [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik)."
+        content: "Guter Code ist der Anfang. [Software-Engineering](https://de.wikipedia.org/wiki/Softwaretechnik) sorgt dafür, dass er wartbar bleibt."
         image: /img/eedv_logo.png
       - title: Apple Profi
         content: Langjährige Erfahrung mit Apple-Geräten, macOS, iOS und deren Integration in bestehende IT-Umgebungen

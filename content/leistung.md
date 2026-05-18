@@ -19,7 +19,7 @@ IT-Beratung, Support und Softwareentwicklung für kleinere und mittelständische
 
 ## Telekommunikation
 
-- ISDN, DSL, Router, TK-Anlagen, VoIP
+- DSL, Router, TK-Anlagen, VoIP
 - WAN-Anbindungen
 
 ## Sicherheit
@@ -30,16 +30,12 @@ IT-Beratung, Support und Softwareentwicklung für kleinere und mittelständische
 - Virenschutz
 - Datensicherung
 
-## Internet
+## Web und Internet
 
-- Datenbank- und skriptbasierte Websites
-- CMS
+- Websites, CMS, WordPress
 - Individuelle Shop-Lösungen
-- CGI-Programmierung
+- Datenbank- und skriptbasierte Webanwendungen
 - Aufbau und Konfiguration von Web-, Mail- und Nameservern
-- Anbindung von Firmenstandorten und Internetzugängen am Arbeitsplatz
-- Erstellung von Websites
-- WordPress
 
 ## Support
 
@@ -51,16 +47,15 @@ IT-Beratung, Support und Softwareentwicklung für kleinere und mittelständische
 
 ## Programmierung
 
-- macOS/Windows/.NET/Unix/Symbian/Windows Mobile/Android
-- C++/Java/C#/C/Basic/Pascal
-- Perl/Python/AppleScript/PHP
+- macOS, Windows (.NET), Unix, Android
+- C/C++, Java, C#
+- Perl, Python, PHP, AppleScript
 - SQL, MySQL, PostgreSQL, SQL Server, FileMaker
-- Navision
-- Clean Code
 
-## Moderne Softwareentwicklung und Auslieferung
+## Softwareentwicklung und Auslieferung
 
 - CI/CD
 - Docker
 - Azure DevOps
 - Release Management
+- Clean Code

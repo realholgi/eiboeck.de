@@ -25,13 +25,9 @@ Ein paar Stationen:
 
 ## Erfahrung
 
-- Mehr als 30 Jahre Erfahrung mit Apple
+- Mehr als 30 Jahre Apple (macOS, iOS)
 - 25 Jahre Linux
-- 15 Jahre Perl
-- 7 Jahre C#
-- 7 Jahre C/C++
-- 4 Jahre Java
-- 3 Jahre PHP
-- 15 Jahre HTML/CSS
-- Build/Test-Automatisierung
-- CI/CD
+- 15 Jahre Perl, HTML/CSS
+- 7 Jahre C#, C/C++
+- Java, Python, PHP
+- Build-Automatisierung, CI/CD
