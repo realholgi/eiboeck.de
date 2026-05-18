@@ -78,12 +78,6 @@ params:
   # Note the lack of "" in true, it should be of boolean type.
   useBootstrapCDN: false
 
-  # If you want to load dynamically responsive images from Cloudinary
-  # This requires your images to be uploaded + hosted on Cloudinary
-  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
-  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
-
-  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
   mathjax: false
 
   # Whether the fade animations on the home page will be enabled
@@ -168,46 +162,9 @@ params:
   about:
     enable: true
     title: "IT-Know-how"
-    image: ""
     content: |-
       Ich unterstütze Unternehmen und Selbstständige bei Support, Infrastruktur und individueller Softwareentwicklung. Die passende Lösung zählt mehr als die größte: technisch sauber, wirtschaftlich vernünftig und im Alltag verlässlich.
-    skills:
-      enable: false
-      title: "Erfahrung:"
-      items:
-        - "Apple Profi"
-        - "CI/CD"
-        - "Perl"
-        - "C#"
-        - "C/C++"
-        - "PHP"
-        - "HTML/CSS"
-        - "Build/Test-Automatisierung"
 
-  # Experience
-  experience:
-    enable: false
-    title: "Erfahrung"
-    items:
-      - job: ""
-        company: "IT-Professional"
-        info:
-          enable: false
-        content: "Umfassende Expertise in IT, Telekommunikation und Netzwerken – maßgeschneidert für kleine und mittlere Unternehmen"
-
-      - job: ""
-        company: "Erfahrener Programmierer"
-        info:
-          enable: false
-        content: "Bei der Softwareentwicklung geht es um weit mehr als reines Programmieren: Professionelles Software-Engineering sichert die Struktur, Wartbarkeit und langfristige Qualität Ihrer Anwendungen"
-
-      - job: ""
-        company: "Apple Profi"
-        info:
-          enable: false
-        content: "langjährige Erfahrung (>30 Jahre) mit Apple-Geräten (macOS, iOS) und deren Integration"
-
- 
   # Achievements
   achievements:
     enable: true
@@ -223,69 +180,13 @@ params:
         content: Langjährige Erfahrung mit Apple-Geräten, macOS, iOS und deren Integration in bestehende IT-Umgebungen
         image: /img/eedv_logo.png
 
-  # projects
-  projects:
-    enable: false
-    # title: "Custom Name"
-    items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://x.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
-
-  #Contact
+  # Contact
   contact:
     enable: true
     title: "Kontakt"
     content: Sie möchten ein Projekt besprechen oder brauchen Unterstützung bei Ihrer IT? Ich freue mich auf Ihre Nachricht.
     btnName: Kontakt aufnehmen
     btnLink: kontakt
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
-    #   messageRows: 5
 
   footer:
     recentPosts:
@@ -326,6 +227,3 @@ params:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
-
-  #customScripts: -| # You can add custom scripts which will be added before </body> tag
-  #  <script type="text/javascript"><!-- any script here --></script>

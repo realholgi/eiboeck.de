@@ -23,3 +23,19 @@ header .navbar .container-fluid {
 .navbar-toggler {
     flex: 0 0 auto;
 }
+
+img.profile-photo {
+    float: right;
+    width: 256px !important;
+    height: 256px !important;
+    margin: 0 0 1rem 1.5rem;
+    object-fit: cover;
+}
+
+@media (max-width: 576px) {
+    img.profile-photo {
+        float: none;
+        display: block;
+        margin: 0 auto 1rem;
+    }
+}

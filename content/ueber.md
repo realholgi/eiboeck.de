@@ -2,9 +2,7 @@
 title: "Über mich"
 ---
 
-<div class="image d-flex" style="float: right;">
-    <img src="/img/holgi_avatar2023.png" alt="Holger Eiboeck" class="img-thumbnail mx-auto rounded-circle" style="height:256px; width:256px;" />
-</div>
+<img src="/img/holgi_avatar2023.png" alt="Holger Eiboeck" class="profile-photo img-thumbnail rounded-circle" />
 
 Ich bin Holger Eiboeck, IT-Spezialist aus Karlsruhe. Mein Schwerpunkt liegt auf Apple-Systemen, Unix, Netzwerken und individueller Softwareentwicklung.
 
