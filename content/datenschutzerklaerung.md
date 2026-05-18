@@ -6,7 +6,13 @@ title: "Datenschutzerklärung"
 
 Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der Datenschutz-Grundverordnung (DSGVO), ist:
 
-[Holger Eiboeck](mailto:info@eiboeck.de)
+Holger Eiboeck EDV Dienstleistungen  
+Imberstraße 9  
+76227 Karlsruhe  
+Deutschland
+
+Telefon: [+49 721 946470](tel:+49721946470)  
+E-Mail: [info@eiboeck.de](mailto:info@eiboeck.de)
 
 ---
 

@@ -69,6 +69,16 @@ Menus:
       url: /kontakt
       weight: 7
 
+  footer:
+    - identifier: impressum
+      name: Impressum
+      url: /impressum
+      weight: 1
+    - identifier: datenschutz
+      name: Datenschutz
+      url: /datenschutzerklaerung
+      weight: 2
+
 params:
   title: "Holger Eiboeck EDV Dienstleistungen"
   description: "Verlässlicher IT-Service aus Karlsruhe"
