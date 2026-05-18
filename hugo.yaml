@@ -15,6 +15,7 @@ outputs:
     - "HTML"
 
 enableRobotsTXT: true
+enableGitInfo: true
 
 pagination:
   pagerSize: 3
