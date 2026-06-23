@@ -16,5 +16,7 @@ Deutschland
 
 Steuernummer: 34145/33718, Finanzamt Karlsruhe-Durlach
 
+UStIdNr.: DE410985860
+
 [Datenschutzerklärung](/datenschutzerklaerung)
 
